@@ -7,7 +7,7 @@
 
 ## 如何运行app
 
-1. 将项目 `clone` 至本地 `git clone https://github.com/zhashut/Module_B.git`
+1. 将项目 `clone` 至本地 `git clone https://github.com/zhashut/Module-B.git`
 
 2. 使用 Android Studio 打开项目
 3. 由于使用到 航班信息查询 接口，这里需要用到 `appkey`，请前往 `https://www.jisuapi.com/my/` 注册用户
