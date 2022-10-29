@@ -1,0 +1,14 @@
+
+g
+java:S1104M"QMake price a static final constant or non-public and provide accessors if needed.(ÁÎ¯÷
+o
+java:S1104N"TMake discount a static final constant or non-public and provide accessors if needed.(´öÅîûÿÿÿÿ
+p
+java:S1104O"UMake cabinCode a static final constant or non-public and provide accessors if needed.(ùëû÷ıÿÿÿÿ
+p
+java:S1104P"UMake cabinName a static final constant or non-public and provide accessors if needed.(ÓşÂşÿÿÿÿ
+j
+java:S1104Q"UMake btn_order a static final constant or non-public and provide accessors if needed.(È£È.
+B
+java:S1602F",Remove useless curly braces around statement(÷ÿ 
+h	java:S116Q"TRename this field "btn_order" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È£È.

@@ -1,0 +1,20 @@
+
+l
+java:S1104Y"VMake departTime a static final constant or non-public and provide accessors if needed.(±È©ú
+r
+java:S1104Z"WMake arrivalTime a static final constant or non-public and provide accessors if needed.(Ý‰÷·úÿÿÿÿ
+q
+java:S1104["VMake departPort a static final constant or non-public and provide accessors if needed.(ç×ñèøÿÿÿÿ
+r
+java:S1104\"WMake arrivalPort a static final constant or non-public and provide accessors if needed.(Áó½Åÿÿÿÿÿ
+i
+java:S1104]"SMake airline a static final constant or non-public and provide accessors if needed.(âõÃ“
+j
+java:S1104^"TMake flightNo a static final constant or non-public and provide accessors if needed.(éÖª¬
+j
+java:S1104_"TMake minPrice a static final constant or non-public and provide accessors if needed.(¢ð‹ 
+f
+java:S1104`"PMake icon a static final constant or non-public and provide accessors if needed.(Ù’ïú
+j
+java:S1104a"UMake ll_flight a static final constant or non-public and provide accessors if needed.(Øàª]
+h	java:S116a"TRename this field "ll_flight" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øàª]
